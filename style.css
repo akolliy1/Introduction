@@ -1,0 +1,40 @@
+h1 {
+    color: green;
+    background-color: blue;
+  }
+  
+  h2{
+    color:red;
+    background-color:purple;
+  }
+  h3{
+    color:pink;
+   background-color:yellow;
+    
+  }
+  h4{color:orange; background-color:green}
+  h5{color:yellow; background-color:black
+  }
+  h6{color:grey;background-color:indigo
+    
+  }
+  .text-color {color:brown;background-color:grey
+  }
+  
+  .text {
+  /*   color: red; */color:purple;
+  }
+  
+  input {
+    border-radius: 5px;
+    border: 1px solid;
+    line-height: 45px;
+    font-size: 35px
+  }
+
+  #first::before {
+    content: 'heading one';
+    display: block;
+    font-weight: 900;
+    font-size: 60px;
+  }
